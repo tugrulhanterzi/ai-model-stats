@@ -1,0 +1,21 @@
+# Environment secrets
+.env
+
+# .NET build artifacts
+**/bin/
+**/obj/
+*.user
+
+# Node
+**/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.swp
+test.svg
